@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Parnia Najari",
+  "description": "A completed FCC course backend dev & APIs",
   "dependencies": {
     "express": "^4.14.0"
   },
